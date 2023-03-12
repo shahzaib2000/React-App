@@ -36,13 +36,13 @@ const users = [
       classLevel: "Freshmen"
     },
     {
-      username: "peter_williams",
-      firstName: "Peter",
-      lastName: "Williams",
-      school: "University of California, Berkeley",
-      email: "peter_williams@gmail.com",
+      username: "hammad_ahmed",
+      firstName: "Hammad",
+      lastName: "Ahmed",
+      school: "University of Karachi",
+      email: "hammad_ahmed@gmail.com",
       profilePicture: "https://picsum.photos/200/300",
-      classLevel: "Graduate"
+      classLevel: "Sophomore"
     }
   ];
   
